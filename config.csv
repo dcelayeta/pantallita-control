@@ -6,7 +6,7 @@ display_schedules,true
 display_events,true
 
 # Temperature unit (F or C)
-temperature_unit,F
+temperature_unit,C
 
 # Stock display settings
 stocks_display_frequency,1
